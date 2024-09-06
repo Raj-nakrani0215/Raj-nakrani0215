@@ -12,7 +12,7 @@
         src="https://komarev.com/ghpvc/?username=raj-nakrani0215&label=Profile%20views&color=0e75b6&style=flat"
         alt="raj-nakrani0215" /> </p>
 
-- 🔭 I’m currently working on **MegaMart**
+- 🔭 I’m currently working on **TrandE Bajar**
 
 - 🌱 I’m currently learning **ReactJS,NextJS,MUI,Bootstarp,ANT,JEST**
 
